@@ -40,5 +40,8 @@
 
 .itemList{
     margin-left:20px;
+}
+
+.card-body{
     overflow:scroll;
 }
